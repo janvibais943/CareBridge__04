@@ -1,0 +1,8 @@
+PRESCRIPTION
+Dr. Arun Rao, Endocrinology
+Date: 2026-09-20
+Patient: Asha Verma (SYNTHETIC DATA)
+
+1. Metformin 1000 mg BD for 30 days
+2. Atorvastatin 10 mg OD for 30 days
+Repeat HbA1c after 3 months.

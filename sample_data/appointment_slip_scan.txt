@@ -1,0 +1,5 @@
+APPOINTMENT SLIP (scanned)
+Patient: Asha Verma (SYNTHETIC DATA)
+Date: 2026-09-25
+Appointment: 15 Oct 2026 10:30 with Dr. Arun Rao, Endocrinology OPD
+Patient question: Has my metformin dose been changed?

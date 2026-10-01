@@ -1,0 +1,9 @@
+LABORATORY REPORT
+Patient: Asha Verma (SYNTHETIC DATA)
+Date: 14 Sep 2026
+Referred by: Dr. Arun Rao
+
+Test results
+HbA1c 7.9 %
+Fasting Glucose 156 mg/dL
+Creatinine 0.9 mg/dL

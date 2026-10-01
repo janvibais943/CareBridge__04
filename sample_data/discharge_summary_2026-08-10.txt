@@ -1,0 +1,9 @@
+DISCHARGE SUMMARY
+Patient: Asha Verma (SYNTHETIC DATA)
+Date of admission: 2026-08-07
+Date of discharge: 2026-08-10
+Date: 2026-08-10
+
+Medications at discharge: Metformin 500 mg BD, Glimepiride 1 mg OD
+Refer to Ophthalmology for diabetic eye check-up.
+Review after 6 weeks.

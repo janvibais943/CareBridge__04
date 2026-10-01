@@ -1,0 +1,7 @@
+PRESCRIPTION
+Dr. Meera Sharma, General Physician
+Date: 2026-07-05
+Patient: Asha Verma (SYNTHETIC DATA)
+
+1. Metformin 500 mg BD
+2. Glimepiride 1 mg OD
